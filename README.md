@@ -1,3 +1,6 @@
+## Overview
+This is the front-end portion of an app based on the course called "The Advanced Web Developer Boot Camp" by Colt Steele on Udemy.com.  It is built with React and Redux.
+
 ## Getting Started
 You will need to have Node.js and NPM installed on your machine.  Installation is out of the scope of this project.  Visit [Node.js](https://nodejs.org/en/) for information on install.
 
